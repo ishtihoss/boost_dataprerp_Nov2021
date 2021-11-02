@@ -1,7 +1,6 @@
  '''
  Step 1: Get IFA Prediction from Datarobot Model
 '''
-# load packages
 
 # load packages
 
